@@ -1,1 +1,2 @@
-# ogy_kepviselo_quiz.github.io
+# Országgyűlési képviselők kvíz
+Tudod az összes országgyűlési képviselőt?
